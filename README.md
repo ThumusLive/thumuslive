@@ -10,3 +10,7 @@
 - [x] Do a presentation :ok_hand:
 - [ ] Publish my bot :eyes:
 - [x] Finish Undertale :ok_hand:
+
+---
+
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=thumuslive&show_icons=true alt=thumuslive />
