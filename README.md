@@ -13,5 +13,5 @@
 
 ---
 
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=thumuslive&show_icons=true&theme=dracula alt=thumuslive />
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=thumuslive&theme=dracula&show_icons=true alt=thumuslive />
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=thumuslive&show_icons=true alt=thumuslive />
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=thumuslive&show_icons=true alt=thumuslive />
