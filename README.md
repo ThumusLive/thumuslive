@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my bot <a href="https://github.com/thumuslive/minme">MinMe</a> !
 - 🌱 I’m currently learning Python ^^
 - 💬 You can ask me somthing about Node JS and discord.js
-- 📫 How to reach me: With my <a href="https://discord.gg/Zucxjfj">discord</a> ! (Only FR)
+- 📫 How to reach me: With my <a href="https://discord.gg/62nvjZt">discord</a> ! (Only FR)
 
 ### Things I need to do :
 
