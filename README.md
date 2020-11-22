@@ -1,6 +1,5 @@
 ### Hi !
 #### I'm a French bot developper in Node JS ^^
-- 🔭 I’m currently working on my bot <a href="https://github.com/thumuslive/minme">MinMe</a> !
 - 🌱 I’m currently learning Python ^^
 - 💬 You can ask me somthing about Node JS and discord.js
 - 📫 How to reach me: With my <a href="https://discord.gg/62nvjZt">discord</a> ! (Only FR)
