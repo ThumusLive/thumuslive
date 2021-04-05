@@ -1,8 +1,5 @@
-### Hi !
+## Hi !
 #### I'm a French bot developper in Node JS ^^
-- 🌱 I’m currently learning Python ^^
-- 💬 You can ask me somthing about Node JS and discord.js
-- 📫 How to reach me: With my <a href="https://discord.gg/62nvjZt">discord</a> ! (Only FR)
 
 ### Things I need to do :
 
@@ -10,7 +7,17 @@
 - [ ] Publish my bot :eyes:
 - [x] Finish Undertale :ok_hand:
 
+<details>
+<summary>What about me ?</summary>
+  
+* Languages : Javascript, Python, Ruby, Java (a little), C#
+* App I'm using : Unity3D, Codium, Eclipse, ngrok, etc...
+
+</details>
+
 ---
+
+## Other random infos :
 
 <p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=thumuslive&show_icons=true alt=thumuslive />
 <p align="left"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=thumuslive&show_icons=true alt=thumuslive />
